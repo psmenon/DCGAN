@@ -1,6 +1,6 @@
 # DCGAN
 
-Pytorch implementation of Deep Convolutional Generative Adversarial Networks (DCGAN) for CelebA [4] dataset.
+Pytorch implementation of Deep Convolutional Generative Adversarial Networks (DCGAN) for CelebA dataset.
 
 A DCGAN is a direct extension of the GAN , except that it explicitly uses convolutional and convolutional-transpose layers in the discriminator and generator, respectively. 
 
